@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\settings\guix_washing_machine.sdram_debug.general.xcl" --backend -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\settings\guix_washing_machine.sdram_debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\settings\guix_washing_machine.sdram_debug.general.xcl" --backend -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\settings\guix_washing_machine.sdram_debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\settings\guix_washing_machine.sdram_debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\settings\guix_washing_machine.sdram_debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\settings\guix_washing_machine.sdram_debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\settings\guix_washing_machine.sdram_debug.driver.xcl" 
 }

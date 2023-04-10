@@ -131,7 +131,7 @@ void tx_application_define(void *first_unused_memory)
     tx_byte_pool_create(&memory_pool, "scratchpad", scratchpad, BUFFER_SIZE);
 
     guix_startup();
-    start_touch_thread();
+    // start_touch_thread();
 }
 
 void guix_startup(void)

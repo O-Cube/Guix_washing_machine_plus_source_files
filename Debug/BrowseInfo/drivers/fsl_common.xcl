@@ -1,49 +1,49 @@
-"C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\drivers\fsl_common.c"
+"C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\drivers\fsl_common.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\Debug\BrowseInfo\drivers\fsl_common.pbi.dep
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\Debug\BrowseInfo\drivers\fsl_common.pbi.dep
 -o
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\Debug\BrowseInfo\drivers\fsl_common.pbi
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\Debug\BrowseInfo\drivers\fsl_common.pbi
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\drivers
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\drivers
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/board\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/board\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/source\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/source\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/CMSIS\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/CMSIS\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/azure-rtos/config\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/azure-rtos/config\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/azure-rtos/guix/common/inc\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/azure-rtos/guix/common/inc\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/azure-rtos/guix/ports/cortex_m7/iar/inc\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/azure-rtos/guix/ports/cortex_m7/iar/inc\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/azure-rtos/threadx/common/inc\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/azure-rtos/threadx/common/inc\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/azure-rtos/threadx/ports/cortex_m7/iar/inc\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/azure-rtos/threadx/ports/cortex_m7/iar/inc\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/component/lists\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/component/lists\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/component/serial_manager\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/component/serial_manager\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/component/uart\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/component/uart\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/device\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/device\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/drivers\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/drivers\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/touchpanel\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/touchpanel\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/utilities\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/utilities\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/video\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/video\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files/xip\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files/xip\
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c\aarch32
 -I
@@ -51,39 +51,39 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\board
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\board
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\source
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\source
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\CMSIS
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\CMSIS
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\azure-rtos\config
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\azure-rtos\config
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\azure-rtos\guix\common\inc
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\azure-rtos\guix\common\inc
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\azure-rtos\guix\ports\cortex_m7\iar\inc
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\azure-rtos\guix\ports\cortex_m7\iar\inc
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\azure-rtos\threadx\common\inc
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\azure-rtos\threadx\common\inc
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\azure-rtos\threadx\ports\cortex_m7\iar\inc
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\azure-rtos\threadx\ports\cortex_m7\iar\inc
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\component\lists
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\component\lists
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\component\serial_manager
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\component\serial_manager
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\component\uart
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\component\uart
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\device
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\device
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\drivers
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\drivers
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\touchpanel
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\touchpanel
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\utilities
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\utilities
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\video
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\video
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_plus_source\Guix_washing_machine_plus_source_files\xip
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS\Guix_washing_machine_plus_source_files\xip
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
